@@ -3,7 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 <p><em>
-AI & Data Science Enthusiast <br>
+<b>AI & Data Science Enthusiast</b> <br>
 Building intelligent systems and exploring real-world problems with code and curiosity.
 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
@@ -12,7 +12,7 @@ Building intelligent systems and exploring real-world problems with code and cur
 [![harshita-313](https://img.shields.io/badge/-harshita--313-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/harshita-313)
 
 
-### <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="35"> Featured Projects
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little about me...
 
 I am focused on building intelligent, scalable systems using modern AI approaches.  
 My interests lie in machine learning, generative AI, retrieval systems, and real-time intelligent applications.
@@ -21,7 +21,7 @@ I believe in learning by building, staying consistent, and pushing my technical 
 
 ---
 
-### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="40"> Featured Projects
+### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Featured Projects
 
 - <a href="https://github.com/harshita-313/real-time-facial-recognition-and-tracking-system">Real-Time Facial Recognition & Tracking System</a>  
   Multi-camera facial recognition system for real-time tracking and automated logging.
@@ -39,7 +39,7 @@ I believe in learning by building, staying consistent, and pushing my technical 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 <em><b>I enjoy connecting with curious minds.</b>  
-If you’d like to collaborate or exchange ideas, feel free to reach out.</em>
+<b>If you’d like to collaborate or exchange ideas, feel free to reach out.<b></em>
 
   
 ---
