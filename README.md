@@ -23,7 +23,16 @@ I believe in learning by building, staying consistent, and pushing my technical 
 
 ### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Featured Projects
 
-<p>
+[![Facial Recognition](https://img.shields.io/badge/Facial%20Recognition-2E8B57?style=for-the-badge)](https://github.com/harshita-313/real-time-facial-recognition-and-tracking-system)
+
+[![Appointment Assistant](https://img.shields.io/badge/Appointment%20Assistant-8A2BE2?style=for-the-badge)](https://github.com/harshita-313/appointment-booking-assistant)
+
+[![Summary Generation](https://img.shields.io/badge/Summary%20Generation-1E90FF?style=for-the-badge)](https://github.com/harshita-313/summary-generation)
+
+[![AI Knowledge Base RAG System](https://img.shields.io/badge/RAG%20System-FF6F61?style=for-the-badge)](https://github.com/harshita-313/ai-knowledge-base-rag)
+
+
+<!-- <p>
 <a href="https://github.com/harshita-313/real-time-facial-recognition-and-tracking-system">
 Real-Time Facial Recognition & Tracking System
 </a><br>
@@ -49,7 +58,7 @@ Retrieval-augmented generation system for semantic search and document Q&A.
 Summary Generation System
 </a><br>
 End-to-end system converting audio and text into structured summaries.
-</p>
+</p> -->
 
 ---
 
