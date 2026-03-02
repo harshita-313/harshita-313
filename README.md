@@ -1,16 +1,41 @@
+<img align="right" src="https://raw.githubusercontent.com/harshita-313/harshita-313/main/Harshita.jpeg" width="150" />
+
+# Harshita Thakur
+
 ## Hi there 👋
 
-<!--
-**harshita-313/harshita-313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Clean. Curious. Consistent.
 
-Here are some ideas to get you started:
+I am a passionate learner focused on building a strong foundation in programming and problem solving.  
+Currently exploring Python, Data Science, Machine Learning, and Generative AI, I enjoy understanding how systems work and continuously improving my technical depth.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I believe in learning by building, staying consistent, and growing one step at a time.
+
+## 🚀 Currently Learning
+- Python
+- Data Science
+- Machine Learning
+- Generative AI
+- Backend Development
+
+## 📌 Featured Projects
+- [Real-Time Facial Recognition](https://github.com/harshita-313/real-time-facial-recognition-and-tracking-system)  
+  Multi-camera facial recognition system using DeepFace, OpenCV, and MySQL.
+
+- [AI Appointment Assistant](https://github.com/harshita-313/appointment-booking-assistant)  
+  LangChain-based booking assistant with structured workflows and database integration.
+
+- [AI Knowledge Base (RAG)](https://github.com/harshita-313/ai-knowledge-base-rag)  
+  Semantic search and document Q&A using embeddings and LLMs.
+
+- [Summary Generation System](https://github.com/harshita-313/summary-generation)  
+  Audio & text summarization pipeline powered by modern language models.
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/harshita-thakur-918992206
+- Email: harshitathakur484@gmail.com
+
+---
+
+![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshita-313&show_icons=true&theme=default)
 -->
