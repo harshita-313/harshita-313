@@ -1,5 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/harshita-313/harshita-313/main/Harshita.jpeg" width="150" />
-
 # Harshita Thakur
 
 ## Hi there 👋
