@@ -37,10 +37,7 @@ I believe in learning by building, staying consistent, and pushing my technical 
 
 ---
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-<em>I enjoy connecting with curious minds  
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em>I enjoy connecting with curious minds  
 If you’d like to collaborate or exchange ideas, feel free to reach out.</em>
 
 ---
-
-![Harshita's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshita-313&show_icons=true&theme=default)
