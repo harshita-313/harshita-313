@@ -23,17 +23,33 @@ I believe in learning by building, staying consistent, and pushing my technical 
 
 ### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Featured Projects
 
-- <a href="https://github.com/harshita-313/real-time-facial-recognition-and-tracking-system">Real-Time Facial Recognition & Tracking System</a>  
-  Multi-camera facial recognition system for real-time tracking and automated logging.
+<p>
+<a href="https://github.com/harshita-313/real-time-facial-recognition-and-tracking-system">
+Real-Time Facial Recognition & Tracking System
+</a><br>
+Multi-camera facial recognition system for real-time tracking and automated logging.
+</p>
 
-- <a href="https://github.com/harshita-313/appointment-booking-assistant">AI Appointment Booking Assistant</a>  
-  Structured AI assistant with booking workflows and database-backed session handling.
+<p>
+<a href="https://github.com/harshita-313/appointment-booking-assistant">
+AI Appointment Booking Assistant
+</a><br>
+Structured AI assistant with booking workflows and database-backed sessions.
+</p>
 
-- <a href="https://github.com/harshita-313/ai-knowledge-base-rag">AI Knowledge Base (RAG System)</a>  
-  Retrieval-augmented generation system for semantic search and document Q&A.
+<p>
+<a href="https://github.com/harshita-313/ai-knowledge-base-rag">
+AI Knowledge Base (RAG System)
+</a><br>
+Retrieval-augmented generation system for semantic search and document Q&A.
+</p>
 
-- <a href="https://github.com/harshita-313/summary-generation">Summary Generation System</a>  
-  End-to-end system converting audio and text into structured summaries.
+<p>
+<a href="https://github.com/harshita-313/summary-generation">
+Summary Generation System
+</a><br>
+End-to-end system converting audio and text into structured summaries.
+</p>
 
 ---
 
