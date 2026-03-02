@@ -25,11 +25,11 @@ I believe in learning by building, staying consistent, and pushing my technical 
 
 [![Facial Recognition](https://img.shields.io/badge/Facial%20Recognition-2E8B57?style=for-the-badge)](https://github.com/harshita-313/real-time-facial-recognition-and-tracking-system)
 
-[![Appointment Assistant](https://img.shields.io/badge/Appointment%20Assistant-8A2BE2?style=for-the-badge)](https://github.com/harshita-313/appointment-booking-assistant)
-
 [![Summary Generation](https://img.shields.io/badge/Summary%20Generation-1E90FF?style=for-the-badge)](https://github.com/harshita-313/summary-generation)
 
-[![AI Knowledge Base RAG System](https://img.shields.io/badge/RAG%20System-FF6F61?style=for-the-badge)](https://github.com/harshita-313/ai-knowledge-base-rag)
+[![Appointment Assistant](https://img.shields.io/badge/Appointment%20Assistant-8A2BE2?style=for-the-badge)](https://github.com/harshita-313/appointment-booking-assistant)
+
+[![AI Knowledge Base RAG System](https://img.shields.io/badge/Knowledge%20Base%20RAG%20System-FF6F61?style=for-the-badge)](https://github.com/harshita-313/ai-knowledge-base-rag)
 
 
 <!-- <p>
