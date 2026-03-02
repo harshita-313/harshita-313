@@ -23,6 +23,8 @@ I believe in learning by building, staying consistent, and pushing my technical 
 
 ### <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Featured Projects
 
+Stuff I’ve been building lately.
+
 [![Facial Recognition](https://img.shields.io/badge/Facial%20Recognition-2E8B57?style=for-the-badge)](https://github.com/harshita-313/real-time-facial-recognition-and-tracking-system)
 
 [![Summary Generation](https://img.shields.io/badge/Summary%20Generation-1E90FF?style=for-the-badge)](https://github.com/harshita-313/summary-generation)
